@@ -52,11 +52,11 @@ http
 Copy
 Edit
 GET /api/orders/analytics
-Response: {
+Response: 
   "averageOrderValue": 1050.50,
   "averageFulfillmentTime": "01:45:30",
   "totalOrders": 15
-}
+
 ---------
 
 ####### Comments
