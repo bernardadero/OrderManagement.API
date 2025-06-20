@@ -38,7 +38,7 @@ Manage customer orders and statuses (Pending → Delivered)
    cd OrderManagement.API
    
 3. Open in Visual Studio:
-    Open OrderManagement.sln
+    Open OrderManagement.sln (inside: \OrderManagement.API\Interview\OrderManagement.API)
    Set OrderManagement.API as the startup project
    Press F5 to run
 
