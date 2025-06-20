@@ -60,10 +60,9 @@ Response:
 ---------
 
 ####### Comments
+
 I have uploaded the root folder to preserve project structure
 I decided to create one solution with two projects  
 1. OrderManagement.API/
 2.OrderManagement.Tests
-
-
 
