@@ -5,7 +5,8 @@ A simple .NET Core Web API for managing customer orders, calculating discounts, 
 Note: 
 I have uploaded the root folder to preserve project structure and for easy deployment
 I decided to create one solution with two projects  
-1. OrderManagement.API/.␣␣
+1. OrderManagement.API/
+
 2.OrderManagement.Tests
 
 
