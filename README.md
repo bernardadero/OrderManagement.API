@@ -20,8 +20,8 @@ Manage customer orders and statuses (Pending → Delivered)
 ### Technologies Used
 
 - ASP.NET Core Web API
-- C# 10 / .NET 6 or later
-- Swashbuckle (Swagger) for API docs
+- C# 10 / .NET 8 
+- Swashbuckle (Swagger) for API docs for(Document your API changes using Swagger/OpenAPI annotations)
 - xUnit (or NUnit) for testing
 
 ---
