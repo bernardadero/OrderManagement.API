@@ -2,6 +2,13 @@
 
 A simple .NET Core Web API for managing customer orders, calculating discounts, and providing order analytics. Designed with clean architecture and extensibility in mind, this solution contains both the API and its associated test project.
 
+Note: 
+I have uploaded the root folder to preserve project structure and for easy deployment
+I decided to create one solution with two projects  
+1. OrderManagement.API/
+2.OrderManagement.Tests
+
+
 ## Features
 
 Manage customer orders and statuses (Pending → Delivered)
@@ -59,10 +66,4 @@ Response:
 
 ---------
 
-####### Comments
-
-I have uploaded the root folder to preserve project structure
-I decided to create one solution with two projects  
-1. OrderManagement.API/
-2.OrderManagement.Tests
 
